@@ -1,8 +1,12 @@
 {
-    "name": "rachidlaasri/laravel-installer",
+    "name": "danlopez00/laravel-installer",
     "description": "Laravel web installer",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Don Quixote",
+            "email": "don.quixote@gmail.com"
+        },
         {
             "name": "Rachid Laasri",
             "email": "rashidlaasri@gmail.com"
